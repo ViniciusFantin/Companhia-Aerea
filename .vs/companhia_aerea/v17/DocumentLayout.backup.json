@@ -1,18 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ti.vinicius\\Desktop\\companhia_aerea\\",
+  "WorkspaceRootPath": "C:\\Users\\Joao_\\source\\repos\\Companhia-Aerea\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CA71DE12-94B4-4D1A-BA9A-37B6D0AD0130}|companhia_aerea\\companhia_aerea.csproj|c:\\users\\ti.vinicius\\desktop\\companhia_aerea\\companhia_aerea\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CA71DE12-94B4-4D1A-BA9A-37B6D0AD0130}|companhia_aerea\\companhia_aerea.csproj|c:\\users\\joao_\\source\\repos\\companhia-aerea\\companhia_aerea\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CA71DE12-94B4-4D1A-BA9A-37B6D0AD0130}|companhia_aerea\\companhia_aerea.csproj|solutionrelative:companhia_aerea\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA71DE12-94B4-4D1A-BA9A-37B6D0AD0130}|companhia_aerea\\companhia_aerea.csproj|c:\\users\\ti.vinicius\\desktop\\companhia_aerea\\companhia_aerea\\controllers\\aeroportoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA71DE12-94B4-4D1A-BA9A-37B6D0AD0130}|companhia_aerea\\companhia_aerea.csproj|solutionrelative:companhia_aerea\\controllers\\aeroportoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CA71DE12-94B4-4D1A-BA9A-37B6D0AD0130}|companhia_aerea\\companhia_aerea.csproj|c:\\users\\joao_\\source\\repos\\companhia-aerea\\companhia_aerea\\controllers\\horarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA71DE12-94B4-4D1A-BA9A-37B6D0AD0130}|companhia_aerea\\companhia_aerea.csproj|solutionrelative:companhia_aerea\\controllers\\horarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA71DE12-94B4-4D1A-BA9A-37B6D0AD0130}|companhia_aerea\\companhia_aerea.csproj|c:\\users\\ti.vinicius\\desktop\\companhia_aerea\\companhia_aerea\\controllers\\aeronavescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA71DE12-94B4-4D1A-BA9A-37B6D0AD0130}|companhia_aerea\\companhia_aerea.csproj|solutionrelative:companhia_aerea\\controllers\\aeronavescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CA71DE12-94B4-4D1A-BA9A-37B6D0AD0130}|companhia_aerea\\companhia_aerea.csproj|c:\\users\\joao_\\source\\repos\\companhia-aerea\\companhia_aerea\\views\\horarios\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CA71DE12-94B4-4D1A-BA9A-37B6D0AD0130}|companhia_aerea\\companhia_aerea.csproj|solutionrelative:companhia_aerea\\views\\horarios\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA71DE12-94B4-4D1A-BA9A-37B6D0AD0130}|companhia_aerea\\companhia_aerea.csproj|c:\\users\\joao_\\source\\repos\\companhia-aerea\\companhia_aerea\\views\\horarios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CA71DE12-94B4-4D1A-BA9A-37B6D0AD0130}|companhia_aerea\\companhia_aerea.csproj|solutionrelative:companhia_aerea\\views\\horarios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA71DE12-94B4-4D1A-BA9A-37B6D0AD0130}|companhia_aerea\\companhia_aerea.csproj|c:\\users\\joao_\\source\\repos\\companhia-aerea\\companhia_aerea\\views\\clientes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CA71DE12-94B4-4D1A-BA9A-37B6D0AD0130}|companhia_aerea\\companhia_aerea.csproj|solutionrelative:companhia_aerea\\views\\clientes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +30,71 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AeroportosController.cs",
-              "DocumentMoniker": "C:\\Users\\ti.vinicius\\Desktop\\companhia_aerea\\companhia_aerea\\Controllers\\AeroportosController.cs",
-              "RelativeDocumentMoniker": "companhia_aerea\\Controllers\\AeroportosController.cs",
-              "ToolTip": "C:\\Users\\ti.vinicius\\Desktop\\companhia_aerea\\companhia_aerea\\Controllers\\AeroportosController.cs",
-              "RelativeToolTip": "companhia_aerea\\Controllers\\AeroportosController.cs",
-              "ViewState": "AgIAAHEAAAAAAAAAAAAuwIUAAAAHAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Joao_\\source\\repos\\Companhia-Aerea\\companhia_aerea\\Program.cs",
+              "RelativeDocumentMoniker": "companhia_aerea\\Program.cs",
+              "ToolTip": "C:\\Users\\Joao_\\source\\repos\\Companhia-Aerea\\companhia_aerea\\Program.cs",
+              "RelativeToolTip": "companhia_aerea\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T16:40:47.472Z",
+              "WhenOpened": "2024-11-27T23:44:01.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HorariosController.cs",
+              "DocumentMoniker": "C:\\Users\\Joao_\\source\\repos\\Companhia-Aerea\\companhia_aerea\\Controllers\\HorariosController.cs",
+              "RelativeDocumentMoniker": "companhia_aerea\\Controllers\\HorariosController.cs",
+              "ToolTip": "C:\\Users\\Joao_\\source\\repos\\Companhia-Aerea\\companhia_aerea\\Controllers\\HorariosController.cs",
+              "RelativeToolTip": "companhia_aerea\\Controllers\\HorariosController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAgwC8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T23:40:55.657Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "AeronavesController.cs",
-              "DocumentMoniker": "C:\\Users\\ti.vinicius\\Desktop\\companhia_aerea\\companhia_aerea\\Controllers\\AeronavesController.cs",
-              "RelativeDocumentMoniker": "companhia_aerea\\Controllers\\AeronavesController.cs",
-              "ToolTip": "C:\\Users\\ti.vinicius\\Desktop\\companhia_aerea\\companhia_aerea\\Controllers\\AeronavesController.cs",
-              "RelativeToolTip": "companhia_aerea\\Controllers\\AeronavesController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIYAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T16:39:53.843Z",
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Joao_\\source\\repos\\Companhia-Aerea\\companhia_aerea\\Views\\Horarios\\Create.cshtml",
+              "RelativeDocumentMoniker": "companhia_aerea\\Views\\Horarios\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Joao_\\source\\repos\\Companhia-Aerea\\companhia_aerea\\Views\\Horarios\\Create.cshtml",
+              "RelativeToolTip": "companhia_aerea\\Views\\Horarios\\Create.cshtml",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABkAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-27T23:39:45.938Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ti.vinicius\\Desktop\\companhia_aerea\\companhia_aerea\\Program.cs",
-              "RelativeDocumentMoniker": "companhia_aerea\\Program.cs",
-              "ToolTip": "C:\\Users\\ti.vinicius\\Desktop\\companhia_aerea\\companhia_aerea\\Program.cs",
-              "RelativeToolTip": "companhia_aerea\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T16:38:25.299Z",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Joao_\\source\\repos\\Companhia-Aerea\\companhia_aerea\\Views\\Clientes\\Index.cshtml",
+              "RelativeDocumentMoniker": "companhia_aerea\\Views\\Clientes\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Joao_\\source\\repos\\Companhia-Aerea\\companhia_aerea\\Views\\Clientes\\Index.cshtml",
+              "RelativeToolTip": "companhia_aerea\\Views\\Clientes\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-27T23:37:55.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Joao_\\source\\repos\\Companhia-Aerea\\companhia_aerea\\Views\\Horarios\\Index.cshtml",
+              "RelativeDocumentMoniker": "companhia_aerea\\Views\\Horarios\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Joao_\\source\\repos\\Companhia-Aerea\\companhia_aerea\\Views\\Horarios\\Index.cshtml",
+              "RelativeToolTip": "companhia_aerea\\Views\\Horarios\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADEAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-27T23:37:42.497Z",
               "EditorCaption": ""
             }
           ]
