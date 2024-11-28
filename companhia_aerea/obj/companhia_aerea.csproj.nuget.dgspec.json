@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ti.vinicius\\Desktop\\companhia_aerea\\companhia_aerea\\companhia_aerea.csproj": {}
+    "C:\\Users\\Joao_\\Source\\Repos\\Companhia-Aerea\\companhia_aerea\\companhia_aerea.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ti.vinicius\\Desktop\\companhia_aerea\\companhia_aerea\\companhia_aerea.csproj": {
+    "C:\\Users\\Joao_\\Source\\Repos\\Companhia-Aerea\\companhia_aerea\\companhia_aerea.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ti.vinicius\\Desktop\\companhia_aerea\\companhia_aerea\\companhia_aerea.csproj",
+        "projectUniqueName": "C:\\Users\\Joao_\\Source\\Repos\\Companhia-Aerea\\companhia_aerea\\companhia_aerea.csproj",
         "projectName": "companhia_aerea",
-        "projectPath": "C:\\Users\\ti.vinicius\\Desktop\\companhia_aerea\\companhia_aerea\\companhia_aerea.csproj",
-        "packagesPath": "C:\\Users\\ti.vinicius\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ti.vinicius\\Desktop\\companhia_aerea\\companhia_aerea\\obj\\",
+        "projectPath": "C:\\Users\\Joao_\\Source\\Repos\\Companhia-Aerea\\companhia_aerea\\companhia_aerea.csproj",
+        "packagesPath": "C:\\Users\\Joao_\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Joao_\\Source\\Repos\\Companhia-Aerea\\companhia_aerea\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\ti.vinicius\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Joao_\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,7 +26,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

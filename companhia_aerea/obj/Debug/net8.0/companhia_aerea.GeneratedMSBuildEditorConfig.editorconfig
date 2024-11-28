@@ -17,181 +17,181 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = companhia_aerea
 build_property.RootNamespace = companhia_aerea
-build_property.ProjectDir = C:\Users\ti.vinicius\Desktop\companhia_aerea\companhia_aerea\
+build_property.ProjectDir = C:\Users\Joao_\Source\Repos\Companhia-Aerea\companhia_aerea\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\ti.vinicius\Desktop\companhia_aerea\companhia_aerea
+build_property.MSBuildProjectDirectory = C:\Users\Joao_\Source\Repos\Companhia-Aerea\companhia_aerea
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 8.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/Users/ti.vinicius/Desktop/companhia_aerea/companhia_aerea/Views/Aeronaves/Create.cshtml]
+[C:/Users/Joao_/Source/Repos/Companhia-Aerea/companhia_aerea/Views/Aeronaves/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWVyb25hdmVzXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ti.vinicius/Desktop/companhia_aerea/companhia_aerea/Views/Aeronaves/Delete.cshtml]
+[C:/Users/Joao_/Source/Repos/Companhia-Aerea/companhia_aerea/Views/Aeronaves/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWVyb25hdmVzXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ti.vinicius/Desktop/companhia_aerea/companhia_aerea/Views/Aeronaves/Details.cshtml]
+[C:/Users/Joao_/Source/Repos/Companhia-Aerea/companhia_aerea/Views/Aeronaves/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWVyb25hdmVzXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ti.vinicius/Desktop/companhia_aerea/companhia_aerea/Views/Aeronaves/Edit.cshtml]
+[C:/Users/Joao_/Source/Repos/Companhia-Aerea/companhia_aerea/Views/Aeronaves/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWVyb25hdmVzXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ti.vinicius/Desktop/companhia_aerea/companhia_aerea/Views/Aeronaves/Index.cshtml]
+[C:/Users/Joao_/Source/Repos/Companhia-Aerea/companhia_aerea/Views/Aeronaves/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWVyb25hdmVzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ti.vinicius/Desktop/companhia_aerea/companhia_aerea/Views/Aeroportos/Create.cshtml]
+[C:/Users/Joao_/Source/Repos/Companhia-Aerea/companhia_aerea/Views/Aeroportos/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWVyb3BvcnRvc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ti.vinicius/Desktop/companhia_aerea/companhia_aerea/Views/Aeroportos/Delete.cshtml]
+[C:/Users/Joao_/Source/Repos/Companhia-Aerea/companhia_aerea/Views/Aeroportos/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWVyb3BvcnRvc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ti.vinicius/Desktop/companhia_aerea/companhia_aerea/Views/Aeroportos/Details.cshtml]
+[C:/Users/Joao_/Source/Repos/Companhia-Aerea/companhia_aerea/Views/Aeroportos/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWVyb3BvcnRvc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ti.vinicius/Desktop/companhia_aerea/companhia_aerea/Views/Aeroportos/Edit.cshtml]
+[C:/Users/Joao_/Source/Repos/Companhia-Aerea/companhia_aerea/Views/Aeroportos/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWVyb3BvcnRvc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ti.vinicius/Desktop/companhia_aerea/companhia_aerea/Views/Aeroportos/Index.cshtml]
+[C:/Users/Joao_/Source/Repos/Companhia-Aerea/companhia_aerea/Views/Aeroportos/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWVyb3BvcnRvc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ti.vinicius/Desktop/companhia_aerea/companhia_aerea/Views/Clientes/Create.cshtml]
+[C:/Users/Joao_/Source/Repos/Companhia-Aerea/companhia_aerea/Views/Clientes/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ti.vinicius/Desktop/companhia_aerea/companhia_aerea/Views/Clientes/Delete.cshtml]
+[C:/Users/Joao_/Source/Repos/Companhia-Aerea/companhia_aerea/Views/Clientes/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ti.vinicius/Desktop/companhia_aerea/companhia_aerea/Views/Clientes/Details.cshtml]
+[C:/Users/Joao_/Source/Repos/Companhia-Aerea/companhia_aerea/Views/Clientes/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ti.vinicius/Desktop/companhia_aerea/companhia_aerea/Views/Clientes/Edit.cshtml]
+[C:/Users/Joao_/Source/Repos/Companhia-Aerea/companhia_aerea/Views/Clientes/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ti.vinicius/Desktop/companhia_aerea/companhia_aerea/Views/Clientes/Index.cshtml]
+[C:/Users/Joao_/Source/Repos/Companhia-Aerea/companhia_aerea/Views/Clientes/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ti.vinicius/Desktop/companhia_aerea/companhia_aerea/Views/Escalas/Create.cshtml]
+[C:/Users/Joao_/Source/Repos/Companhia-Aerea/companhia_aerea/Views/Escalas/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXNjYWxhc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ti.vinicius/Desktop/companhia_aerea/companhia_aerea/Views/Escalas/Delete.cshtml]
+[C:/Users/Joao_/Source/Repos/Companhia-Aerea/companhia_aerea/Views/Escalas/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXNjYWxhc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ti.vinicius/Desktop/companhia_aerea/companhia_aerea/Views/Escalas/Details.cshtml]
+[C:/Users/Joao_/Source/Repos/Companhia-Aerea/companhia_aerea/Views/Escalas/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXNjYWxhc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ti.vinicius/Desktop/companhia_aerea/companhia_aerea/Views/Escalas/Edit.cshtml]
+[C:/Users/Joao_/Source/Repos/Companhia-Aerea/companhia_aerea/Views/Escalas/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXNjYWxhc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ti.vinicius/Desktop/companhia_aerea/companhia_aerea/Views/Escalas/Index.cshtml]
+[C:/Users/Joao_/Source/Repos/Companhia-Aerea/companhia_aerea/Views/Escalas/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXNjYWxhc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ti.vinicius/Desktop/companhia_aerea/companhia_aerea/Views/Home/Index.cshtml]
+[C:/Users/Joao_/Source/Repos/Companhia-Aerea/companhia_aerea/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ti.vinicius/Desktop/companhia_aerea/companhia_aerea/Views/Home/Privacy.cshtml]
+[C:/Users/Joao_/Source/Repos/Companhia-Aerea/companhia_aerea/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ti.vinicius/Desktop/companhia_aerea/companhia_aerea/Views/Horarios/Create.cshtml]
+[C:/Users/Joao_/Source/Repos/Companhia-Aerea/companhia_aerea/Views/Horarios/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9yYXJpb3NcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ti.vinicius/Desktop/companhia_aerea/companhia_aerea/Views/Horarios/Delete.cshtml]
+[C:/Users/Joao_/Source/Repos/Companhia-Aerea/companhia_aerea/Views/Horarios/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9yYXJpb3NcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ti.vinicius/Desktop/companhia_aerea/companhia_aerea/Views/Horarios/Details.cshtml]
+[C:/Users/Joao_/Source/Repos/Companhia-Aerea/companhia_aerea/Views/Horarios/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9yYXJpb3NcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ti.vinicius/Desktop/companhia_aerea/companhia_aerea/Views/Horarios/Edit.cshtml]
+[C:/Users/Joao_/Source/Repos/Companhia-Aerea/companhia_aerea/Views/Horarios/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9yYXJpb3NcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ti.vinicius/Desktop/companhia_aerea/companhia_aerea/Views/Horarios/Index.cshtml]
+[C:/Users/Joao_/Source/Repos/Companhia-Aerea/companhia_aerea/Views/Horarios/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9yYXJpb3NcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ti.vinicius/Desktop/companhia_aerea/companhia_aerea/Views/Passageiros/Create.cshtml]
+[C:/Users/Joao_/Source/Repos/Companhia-Aerea/companhia_aerea/Views/Passageiros/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFzc2FnZWlyb3NcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ti.vinicius/Desktop/companhia_aerea/companhia_aerea/Views/Passageiros/Delete.cshtml]
+[C:/Users/Joao_/Source/Repos/Companhia-Aerea/companhia_aerea/Views/Passageiros/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFzc2FnZWlyb3NcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ti.vinicius/Desktop/companhia_aerea/companhia_aerea/Views/Passageiros/Details.cshtml]
+[C:/Users/Joao_/Source/Repos/Companhia-Aerea/companhia_aerea/Views/Passageiros/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFzc2FnZWlyb3NcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ti.vinicius/Desktop/companhia_aerea/companhia_aerea/Views/Passageiros/Edit.cshtml]
+[C:/Users/Joao_/Source/Repos/Companhia-Aerea/companhia_aerea/Views/Passageiros/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFzc2FnZWlyb3NcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ti.vinicius/Desktop/companhia_aerea/companhia_aerea/Views/Passageiros/Index.cshtml]
+[C:/Users/Joao_/Source/Repos/Companhia-Aerea/companhia_aerea/Views/Passageiros/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFzc2FnZWlyb3NcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ti.vinicius/Desktop/companhia_aerea/companhia_aerea/Views/Poltronas/Create.cshtml]
+[C:/Users/Joao_/Source/Repos/Companhia-Aerea/companhia_aerea/Views/Poltronas/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9sdHJvbmFzXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ti.vinicius/Desktop/companhia_aerea/companhia_aerea/Views/Poltronas/Delete.cshtml]
+[C:/Users/Joao_/Source/Repos/Companhia-Aerea/companhia_aerea/Views/Poltronas/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9sdHJvbmFzXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ti.vinicius/Desktop/companhia_aerea/companhia_aerea/Views/Poltronas/Details.cshtml]
+[C:/Users/Joao_/Source/Repos/Companhia-Aerea/companhia_aerea/Views/Poltronas/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9sdHJvbmFzXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ti.vinicius/Desktop/companhia_aerea/companhia_aerea/Views/Poltronas/Edit.cshtml]
+[C:/Users/Joao_/Source/Repos/Companhia-Aerea/companhia_aerea/Views/Poltronas/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9sdHJvbmFzXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ti.vinicius/Desktop/companhia_aerea/companhia_aerea/Views/Poltronas/Index.cshtml]
+[C:/Users/Joao_/Source/Repos/Companhia-Aerea/companhia_aerea/Views/Poltronas/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9sdHJvbmFzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ti.vinicius/Desktop/companhia_aerea/companhia_aerea/Views/Shared/Error.cshtml]
+[C:/Users/Joao_/Source/Repos/Companhia-Aerea/companhia_aerea/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ti.vinicius/Desktop/companhia_aerea/companhia_aerea/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Joao_/Source/Repos/Companhia-Aerea/companhia_aerea/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ti.vinicius/Desktop/companhia_aerea/companhia_aerea/Views/_ViewImports.cshtml]
+[C:/Users/Joao_/Source/Repos/Companhia-Aerea/companhia_aerea/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ti.vinicius/Desktop/companhia_aerea/companhia_aerea/Views/_ViewStart.cshtml]
+[C:/Users/Joao_/Source/Repos/Companhia-Aerea/companhia_aerea/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ti.vinicius/Desktop/companhia_aerea/companhia_aerea/Views/Shared/_Layout.cshtml]
+[C:/Users/Joao_/Source/Repos/Companhia-Aerea/companhia_aerea/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-1yljchmuhj
