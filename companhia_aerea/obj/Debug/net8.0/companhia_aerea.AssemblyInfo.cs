@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("companhia_aerea")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+970eaf7c23566667de6ec3b7e7e8cb5734923b93")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("companhia_aerea")]
 [assembly: System.Reflection.AssemblyTitleAttribute("companhia_aerea")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
